@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "aiorbit-info-firebase",
+    "site": "aiorbit-landing",
     "public": ".",
     "ignore": [
       "firebase.json",
